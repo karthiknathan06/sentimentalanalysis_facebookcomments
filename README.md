@@ -19,7 +19,7 @@ Future Improvements
 We can extend this project,
 
 By providing live status by big data analytics.
-By  extending this to different social media and based on the number of users we can come up with a result.
+By extending this to different social media and based on the number of users we can come up with a result.
 By using local language dataset and provide analysis result for specific language in that city.
 
 Code explanation:
@@ -50,4 +50,6 @@ And empty comments are not processed hence removed
  
 This is our result where sentiments of each comments are listed.Since the prediction score is less as compared to vader lexicon, we have implemented our module using vader lexicon using flask framework in python
 
+We have implemented using flask framework python
+1.Run new.py
 
